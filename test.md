@@ -2,6 +2,10 @@
 title: GitHub.com Markdown syntax test
 ---
 
+this is a ~test~.
+
+this is a ~~test~~.
+
 <a id="name">
 
 ![image](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png)

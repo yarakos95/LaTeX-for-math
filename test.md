@@ -8,7 +8,21 @@ this is a ~~test~~.
 
 きらりん**☆レボリューション**
 
+mailto:foo@bar.baz
 
+mailto:a.b-c_d@a.b
+
+mailto:a.b-c_d@a.b.
+
+mailto:a.b-c_d@a.b/
+
+mailto:a.b-c_d@a.b-
+
+mailto:a.b-c_d@a.b_
+
+xmpp:foo@bar.baz
+
+xmpp:foo@bar.baz.
 
 <a id="name">
 
